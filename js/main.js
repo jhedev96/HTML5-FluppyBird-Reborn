@@ -1003,3 +1003,5 @@ var isIncompatible = {
         return (isIncompatible.Android() || isIncompatible.BlackBerry() || isIncompatible.iOS() || isIncompatible.Opera() || isIncompatible.Safari() || isIncompatible.Windows());
     }
 };
+
+document.getElementById('footer').innerHTML = `&copy; 2020-${new Date().getFullYear()} Fluppy Bird &bull; Made with &hearts; by <a href="https://fb.me/jhedev96" target="_blank">Jhe ID</a>`;
