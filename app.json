@@ -1,0 +1,129 @@
+{
+    "name": "Fluppy Bird - HTML5 Game",
+    "version": "1.5-beta",
+    "description": "Play Fluppy Bird: A remake of popular game flappy bird using *actual* hand flapping; build using just HTML5, CSS3 and JavaScript",
+    "logo": "assets/img/touch-icon-iphone.png",
+    "features": {
+        "0": [
+            "Fast",
+            "Work on Chrome, Mozilla Firefox, Opera, etc",
+            "Resposive and User friendly",
+            "Note message fixed with game font style",
+            "3 Level game: Normal, Easy and Hardest",
+            "Debug mode",
+            "Sound effect",
+            "Vibration effect",
+            "Fixed button and setting modal box with animation effect",
+            "Clean code :)"
+        ]
+    },
+    "release": {
+        "version": "1.5-beta.20200821",
+        "date": "2020-08-21",
+        "link": "https://m.jhe.id/project/fluppybird/dev/release/fluppybird-v1.5-beta.20200821.zip",
+        "cangelog": {
+            "title": "Fluppy Bird v1.5-beta release on 2020-08-21",
+            "desc": {
+                "history": [
+                    "Added & Improve: Note message fixed design with game font style",
+                    "Improve: Game level mode",
+                    "Added: Hardest level game",
+                    "Added: Theme sound effect",
+                    "Added: Vibration effect",
+                    "Added: Fixed bottom right control panel",
+                    "Added: Animation design control modal box",
+                    "Improve: Control game level",
+                    "Improve: Code with clean"
+                ],
+                "whatsNew": [
+                    "Note message fixed design with game font style",
+                    "Three various level game: Easy, normal and hardest",
+                    "Sound and vibration effect",
+                    "Fixed button and control modal box with animation effect"
+                ]
+            }
+        }
+    },
+    "components": {
+        "assets": {
+            "sfx": {
+                "theme": "assets/sfx/theme.ogg",
+                "die": "assets/sfx/die.ogg",
+                "hit": "assets/sfx/hit.ogg",
+                "score": "assets/sfx/point.ogg",
+                "swoosh": "assets/sfx/swooshing.ogg",
+                "jump": "assets/sfx/swing.ogg"
+            },
+            "img": [
+                "assets/img/action_settings.png",
+                "assets/img/bird.png",
+                "assets/img/ceiling.png",
+                "assets/img/favicon.ico",
+                //"assets/img/font_big.psd",
+                "assets/img/font_big_0.png",
+                "assets/img/font_big_1.png",
+                "assets/img/font_big_2.png",
+                "assets/img/font_big_3.png",
+                "assets/img/font_big_4.png",
+                "assets/img/font_big_5.png",
+                "assets/img/font_big_6.png",
+                "assets/img/font_big_7.png",
+                "assets/img/font_big_8.png",
+                "assets/img/font_big_9.png",
+                //"assets/img/font_small.psd",
+                "assets/img/font_small_0.png",
+                "assets/img/font_small_1.png",
+                "assets/img/font_small_2.png",
+                "assets/img/font_small_3.png",
+                "assets/img/font_small_4.png",
+                "assets/img/font_small_5.png",
+                "assets/img/font_small_6.png",
+                "assets/img/font_small_7.png",
+                "assets/img/font_small_8.png",
+                "assets/img/font_small_9.png",
+                "assets/img/land.png",
+                "assets/img/medal_bronze.png",
+                "assets/img/medal_gold.png",
+                "assets/img/medal_platinum.png",
+                "assets/img/medal_silver.png",
+                "assets/img/pipe-down.png",
+                "assets/img/pipe-up.png",
+                "assets/img/pipe.png",
+                "assets/img/replay.png",
+                "assets/img/scoreboard.png",
+                "assets/img/sky.png",
+                "assets/img/splash.png",
+                "assets/img/thumb.png",
+                "assets/img/touch-icon-iphone-retina.png",
+                "assets/img/touch-icon-iphone.png",
+                "assets/img/x.png"
+            ]
+        },
+        "dependency": {
+            "css": [
+                "main.css"
+            ],
+            "fonts": [
+                "gamefont.eot",
+                "gamefont.svg",
+                "gamefont.ttf",
+                "gamefont.woff"
+            ],
+            "js": {
+                "library": [
+                    "jquary.min.js",
+                    "buzz.min.js",
+                    "anime.min.js"
+                ],
+                "plugins": [
+                    "doppler.js",
+                    "jquery.transit.min.js",
+                    "jquery.simplemodal.js"
+                ],
+                "script": [
+                    "main.js"
+                ]
+            }
+        }
+    }
+}

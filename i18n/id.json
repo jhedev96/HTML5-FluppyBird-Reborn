@@ -1,0 +1,47 @@
+{
+    "gameScreen": {
+        "tips": "Flap untuk bermain! Izinkan akses mikrofon dan naikkan volume suara--anda mungkin mendengar nadanya. Flap tangan anda ke arah mikrofon!"
+    },
+    "features": {
+        "gameLevel": {
+            "title": "Level Game",
+            "subtitle1": "Normal",
+            "subtitle2": "Mudah",
+            "subtitle3": "Paling sulit"
+        },
+        "autopilot": {
+            "title": "Autopilot",
+            "subtitle": "Mode pilot otomatis"
+        },
+        "sounds": {
+            "title": "Suara",
+            "subtitle": "Efek suara"
+        },
+        "vibration": {
+            "title": "Getaran",
+            "subtitle": "Efek getar"
+        },
+        "screen": {
+            "title": "Layar",
+            "subtitle1": "Normal",
+            "subtitle2": "Mode pembesaran",
+            "subtitle3": "Layar penuh"
+        },
+        "leapMotion": {
+            "title": "Leap Motion",
+            "subtitle": "Leap Motion Controls",
+            "tips": "Untuk menggunakan fitur ini, sambungkan perangkat periferal USB pengontrol Leap Motion ke desktop Anda."
+        },
+        "language": {
+            "title": "Bahasa",
+            "subtitle1": "Sistem",
+            "subtitle2": "Bahasa Indonesia",
+            "subtitle3": "Inggris"
+        },
+        "debugMode": {
+            "title": "Debug",
+            "subtitle": "Mode debug!"
+        },
+    },
+    "intro": "Intro yang diterjemahkan"
+}

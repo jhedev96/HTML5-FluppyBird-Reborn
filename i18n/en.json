@@ -1,0 +1,47 @@
+{
+    "gameScreen": {
+        "tips": "Flap to play! Allow microphone access and turn up sound volume--you may hear the tone. Flap your hand toward microphone!"
+    },
+    "features": {
+        "gameLevel": {
+            "title": "Game Level",
+            "subtitle1": "Normal",
+            "subtitle2": "Easy",
+            "subtitle3": "Hardest"
+        },
+        "autopilot": {
+            "title": "Autopilot",
+            "subtitle": "Autopilot mode"
+        },
+        "sounds": {
+            "title": "Sounds",
+            "subtitle": "Sound effect"
+        },
+        "vibration": {
+            "title": "Vibration",
+            "subtitle": "Vibration effect"
+        },
+        "screen": {
+            "title": "Screen",
+            "subtitle1": "Normal",
+            "subtitle2": "Zoom mode",
+            "subtitle3": "Full screen"
+        },
+        "leapMotion": {
+            "title": "Leap Motion",
+            "subtitle": "Leap Motion Controls",
+            "tips": "To use this feature, connect the Leap Motion controller USB peripheral device to your desktop."
+        },
+        "language": {
+            "title": "Language",
+            "subtitle1": "System",
+            "subtitle2": "Indonesian",
+            "subtitle3": "English"
+        },
+        "debugMode": {
+            "title": "Debug",
+            "subtitle": "Debug mode!"
+        },
+    },
+    "intro": "The translated intro"
+}
